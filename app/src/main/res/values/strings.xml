@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bumdes</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">PERIKANAN</string>
+    <string name="slide_1_desc">Ikan Terbaik dengan Kualitas Terjaga</string>
+
+    <string name="slide_2_title">PERTANIAN</string>
+    <string name="slide_2_desc">Ikut Mensejahterakan Masyarakat</string>
+
+    <string name="slide_3_title">BUAH</string>
+    <string name="slide_3_desc">Untuk Indonesia yang Lebih Baik</string>
+
+    <string name="aksi">BELI</string>
+
+    <string name="produk_1">Ikan Lele (16.000)</string>
+    <string name="produk_2">Ikan Gurame (44.000)</string>
+    <string name="produk_3">Beras Barito (13.000)</string>
+    <string name="produk_4">Jagung (6.000)</string>
+    <string name="produk_5">Manggis (15.000)</string>
+    <string name="produk_6">Durian (50.000)</string>
+
+</resources>
